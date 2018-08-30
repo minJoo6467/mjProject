@@ -139,7 +139,7 @@
         <div id="page-wrapper">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="page-header">View Page</h1>
+                    <h1 class="page-header">Register Page</h1>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
@@ -167,8 +167,8 @@
                                             <textarea class="form-control" rows="3" placeholder="Enter text"
                                             			style="height:400px; overflow : hidden; padding-bottom: 0.2em;" id="fofo"></textarea>
                                         </div>
-                                        <button type="submit" class="btn btn-default" style="float: right;">List</button>
-                                        <button type="submit" class="btn btn-default" style="float: right;">Remove</button>
+                                        <button type="submit" class="btn btn-default" style="float: right;">Cancle</button>
+                                        <button type="submit" class="btn btn-default" style="float: right;">Register</button>
                                     </form>
                                 </div>
                             </div>
